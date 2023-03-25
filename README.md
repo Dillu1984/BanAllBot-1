@@ -19,7 +19,7 @@
 ## ᴅᴇᴘʟᴏʏ
 
 
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-mst-boy/BanAllBot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dillu1984/BanAllBot-1?organization=Dillu1984&organization=Dillu1984)
 
 ### ᴄᴏᴅᴇ ᴄʀᴇᴀᴛᴏʀ 
 
